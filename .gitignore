@@ -1,0 +1,11 @@
+node_modules
+**/dist
+results
+.nyc_output
+*.tsbuildinfo
+.env
+
+packages/smart-account/test/resources/*
+
+!packages/smart-account/test/resources/.gitkeep
+.vscode
